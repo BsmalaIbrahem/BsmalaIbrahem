@@ -38,8 +38,8 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=bsmalaIbrahem&show_icons=true&theme=radial" alt="Basmala's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsmalaIbrahem&layout=compact&theme=radial" alt="Top Langs" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=bsmalaIbrahem&show_icons=true&theme=radial" alt="Basmala's GitHub stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bsmalaIbrahem&layout=compact&theme=radial" alt="Top Langs" />
 </p>
 ---
 
